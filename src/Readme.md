@@ -26,4 +26,7 @@ Elementos de la Barra Inferior (Status Bar)
     Para Representar una Nueva Linea, Windows Ocupa dos Tipos: CR & LF 
     Linux y IOS Ocupan Solo LF 
 
+    PROBLEMA: si alguine hace un codigo en Mac y yo en Windows podriamos llegar a tener problemas por el estilo de Config de Linea que esta decidido en nuestros sistemas y podriamos tirar errores en nuestro codigos si llegarn a ser compartidos mutuamente entre los dos sistemas operativos
+    SOLUCION: GitHub hace la transformacion
+
     Spaces: Cantidad de Espacios que Tengo Actualmente en mi Identacion 
